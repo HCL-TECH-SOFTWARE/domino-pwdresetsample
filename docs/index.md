@@ -31,7 +31,13 @@ Users whose IDs have been uploaded to the vault can now perform the following st
 
 1. Launch a Web browser and open the sample application by specifying a URL such as the following one:
 
-    http://<server>/PwdResetSample.nsf
+    ```
+    http://<your-server-name>/PwdResetSample.nsf
+    ```
 
 2. Log in to the HTTP server.
+
+    Note that to improve the user experience your Domino server can be configured to use SingleSignOn using SAML, OAuth/OIDC
+
 3. In the Reset User Password window, type and confirm a new password, then click Reset My Password.
+    ![Password Reset](assets/images/png/screenshot.png)

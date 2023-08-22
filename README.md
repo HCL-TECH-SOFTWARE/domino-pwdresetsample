@@ -26,7 +26,7 @@ Refer to [this documentation](docs/index.md)
 - OpenNTF: [Password Reset Tool](https://openntf.org/main.nsf/project.xsp?r=project/Password%20Reset%20Tool)
 
 ## Issues
-For issues relating specifically to the Dockerfiles and scripts, please use the [GitHub issue tracker](issues)
+For issues please use the [GitHub issue tracker](issues)
 
 ## Contributing
 We welcome contributions following [our guidelines](CONTRIBUTING.md).

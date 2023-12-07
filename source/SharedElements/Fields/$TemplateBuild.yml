@@ -17,17 +17,9 @@ items:
     type: time
     data:
       - data: "2007-02-28T12:14:01.71-05:00"
-        dst: false
-        anyday: false
-        allday: false
       - data: "2007-11-08T10:01:52.06-05:00"
-        dst: false
-        anyday: false
-        allday: false
       - data: "2008-08-21T08:24:48.85-04:00"
         dst: true
-        anyday: false
-        allday: false
   - name: $TITLE
     type: text
     data: $TemplateBuild

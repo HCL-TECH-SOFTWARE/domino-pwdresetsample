@@ -7,7 +7,7 @@ Property | Value
 Filename | PwdResetSample.nsf
 Templatename | -
 Template version | 8.5.1 (18.11.2008)
-Signed by | Notes Template Development/Domino
+Signed by | Open Source Template/Domino Development
 Optimized for | Web
 
 ## What does this database do?

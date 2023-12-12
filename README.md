@@ -2,13 +2,15 @@
 
 ![Sample Web Agent - Reset User Password](docs/assets/images/png/screenshot.png)
 ## Info
-Property | Value   
+Property | Value
 ---|---
 Filename | PwdResetSample.nsf
 Templatename | -
 Template version | 8.5.1 (18.11.2008)
 Signed by | Notes Template Development/Domino
 Optimized for | Web
+
+To build the application from the source see the latest on [Source Code Integration](https://help.hcltechsw.com/dom_designer/14.0.0/basic/wn_sourcecodeutilitytool.html) in Domino. See the [Releases](https://github.com/HCL-TECH-SOFTWARE/domino-pwdresetsample/releases) for the application download.
 
 ## What does this database do?
 
@@ -26,10 +28,10 @@ Refer to [this documentation](docs/index.md)
 - OpenNTF: [Password Reset Tool](https://openntf.org/main.nsf/project.xsp?r=project/Password%20Reset%20Tool)
 
 ## Issues
-For issues please use the [GitHub issue tracker](issues)
+For issues please use the [GitHub issue tracker](https://github.com/HCL-TECH-SOFTWARE/domino-pwdresetsample/issues)
 
 ## Contributing
 We welcome contributions following [our guidelines](CONTRIBUTING.md).
 
 ## License
-The files in this repository are licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html). 
+The files in this repository are licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
